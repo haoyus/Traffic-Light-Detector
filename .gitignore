@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# directories
+ssd_mobilenet_v1_coco_11_06_2017/
+images/*.jpg
